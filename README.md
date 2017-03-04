@@ -2,7 +2,7 @@
 
 Tipster is a tip calculator application for iOS.
 
-Submitted by: stsang
+Submitted by: steven tsang
 
 Time spent: 9 hours spent in total
 
