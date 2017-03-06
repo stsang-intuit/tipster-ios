@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "93AD6B7E3D2F4710F259D73CB5E31E7E09AD68A4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "93AD6B7E3D2F4710F259D73CB5E31E7E09AD68A4" : 9223372036854775807,
+    "9697A97596E997961CBCC92F3B6A9A742BBB6E26" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7975EC27-9965-4F28-93B4-D0B2F20FE980",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "93AD6B7E3D2F4710F259D73CB5E31E7E09AD68A4" : "tipster\/",
+    "9697A97596E997961CBCC92F3B6A9A742BBB6E26" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "tipster",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "tipster.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github-stsang-intuit:stsang-intuit\/tipster-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "93AD6B7E3D2F4710F259D73CB5E31E7E09AD68A4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/stsang-intuit\/tipster-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9697A97596E997961CBCC92F3B6A9A742BBB6E26"
+    }
+  ]
+}
